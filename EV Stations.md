@@ -1,1 +1,1 @@
-[EV stations v2](https://colab.research.google.com/drive/1nrgRCrsua1tZH6tmtE4wBnofIl8EHHBq?usp=sharing)
+[EV stations v2](https://github.com/brayla-oya/DDDS-My-Projects/blob/main/Capstone_EVstations_v2.ipynb)
